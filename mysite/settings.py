@@ -25,7 +25,7 @@ SECRET_KEY = '%3v#%cqh&s@(^pox*b49xoc(x3g=u3fkv+-q$f=(oe%6lowd2^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "lesh.pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "leshblyat.pythonanywhere.com"]
 
 
 # Application definition
